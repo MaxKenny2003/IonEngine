@@ -1,16 +1,39 @@
 # IonEngine
 
-IonEngine is an open source Game Engine that is heavily based on Unity. Sporting a Editor that is very similar to the Unity editor, the switch from Unity to IonEngine should be relatively smooth. 
+**IonEngine** is an open-source game engine inspired by Unity, featuring a custom editor designed to feel familiar to Unity developers. If you’ve used Unity before, transitioning to IonEngine should be quick and intuitive.
 
-# Please Watch the Latest Update video
+---
+
+## 🎬 Watch the Latest Update
+
 [![Watch the demo](IonEngineLogo.png)](https://youtu.be/kL8r-8mevJw)
 
-This engine consists of:
-- C++ host language that is the backbone of the engine and the editor
-- Lua, a light weight fast scripting language that is used for game logic
-- GLM, used for vector and matrix math—crucial for transforms, physics, and rendering.
-- LuaBridge, A lightweight library that simplifies binding C++ classes and functions to Lua.
-- SDL, A cross-platform library for managing input, windowing, audio, and rendering contexts.
-- Box2D, A 2D physics simulation library widely used in games that simulates rigid body dynamics, including collision detection and response.
-- Dear ImGui, The backbone to the Editor used in IonEngine
-- RapidJSON, the main method of saving and storing game data
+---
+
+## 🔧 Engine Stack
+
+IonEngine is built using a robust stack of technologies:
+
+- **C++** – The backbone of both the runtime engine and the editor, delivering high performance and control.
+- **Lua** – A lightweight, fast scripting language used for writing game logic.
+- **GLM** – OpenGL Mathematics library used for vector and matrix math, essential for transforms, physics, and rendering.
+- **LuaBridge** – A lightweight library that binds C++ functions and classes to Lua, making scripting seamless and intuitive.
+- **SDL** – Cross-platform library for windowing, input, audio, and OpenGL context management.
+- **Box2D** – Industry-standard 2D physics engine that handles rigid body dynamics and collisions.
+- **Dear ImGui** – Immediate mode GUI used to build IonEngine’s custom in-editor interface.
+- **RapidJSON** – High-performance JSON parser/generator used for saving scenes and game data.
+
+---
+
+## 📸 Screenshots & Demos *(Optional)*
+
+_Include some cool screenshots of your editor and gameplay here!_
+
+---
+
+## 🚀 Getting Started *(Optional)*
+
+1. Clone the repo  
+2. Set up your build environment  
+3. Run the editor  
+4. Write Lua scripts
