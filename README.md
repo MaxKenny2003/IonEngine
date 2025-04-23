@@ -26,12 +26,6 @@ IonEngine is built using a robust stack of technologies:
 
 ---
 
-## 📸 Screenshots & Demos *(Optional)*
-
-_Include some cool screenshots of your editor and gameplay here!_
-
----
-
 ## 🚀 Getting Started *(Optional)*
 
 1. Clone the repo  
